@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Category,Product,Quantity,Unit Price,Amount,Discount %,Discount Amount,Final Sales,Profit,Region,City,Payment Method
+ORD0001,2024-05-13,John Smith,Clothing,Cotton T-shirt,2,7002,14004,16,2240.64,11763.36,2335.79,North,Chandigarh,Credit Card
+ORD0002,2024-06-28,Nancy White,Home Decor,Rug,4,3602,14408,15,2161.2,12246.8,2820.44,East,Patna,UPI
+ORD0003,2024-02-05,Angela King,Home Decor,Cushion,5,5611,28055,11,3086.05,24968.95,3696.89,North,Lucknow,UPI
+ORD0004,2024-04-15,Michael Lee,Kitchen,Knife Set,5,4169,20845,13,2709.85,18135.15,4181.59,West,Pune,UPI
+ORD0005,2024-03-29,Paul Harris,Electronics,Smartphone,1,14946,14946,5,747.3,14198.7,2431.04,North,Delhi,Debit Card
+ORD0006,2024-01-08,Susan Hill,Kitchen,Knife Set,3,8647,25941,9,2334.69,23606.31,4020.43,West,Ahmedabad,Cash
+ORD0007,2024-05-08,Karen Allen,Beauty,Nail Polish,3,9846,29538,10,2953.8,26584.2,2049.42,West,Pune,UPI
+ORD0008,2024-06-13,Linda Taylor,Beauty,Face Cream,4,1722,6888,11,757.68,6130.32,466.21,South,Chennai,Cash
+ORD0009,2024-01-31,Emily Davis,Beauty,Perfume,1,14279,14279,10,1427.9,12851.1,3502.01,East,Kolkata,Credit Card
+ORD0010,2024-01-03,Nancy White,Home Decor,Vase,2,5733,11466,10,1146.6,10319.4,1173.37,South,Bangalore,Credit Card
+ORD0011,2024-01-31,James Brown,Kitchen,Mixer Grinder,2,18659,37318,6,2239.08,35078.92,7890.44,North,Lucknow,Credit Card
+ORD0012,2024-01-24,Susan Hill,Beauty,Hair Dryer,3,1195,3585,13,466.05,3118.95,610.04,South,Chennai,Debit Card
+ORD0013,2024-02-20,Robert Miller,Clothing,Denim Jeans,3,5017,15051,8,1204.08,13846.92,793.32,West,Ahmedabad,Credit Card
+ORD0014,2024-03-29,Brian Scott,Kitchen,Knife Set,5,19147,95735,18,17232.3,78502.7,20469.93,West,Mumbai,Debit Card
+ORD0015,2024-01-28,Karen Allen,Kitchen,Microwave,3,2130,6390,16,1022.4,5367.6,445.04,North,Delhi,Cash
+ORD0016,2024-02-19,Laura Martin,Home Decor,Rug,4,16860,67440,15,10116.0,57324.0,4269.47,East,Kolkata,Credit Card
+ORD0017,2024-06-07,Patricia Garcia,Electronics,Tablet,4,6737,26948,18,4850.64,22097.36,2159.55,South,Bangalore,Cash
+ORD0018,2024-04-08,Daniel Thomas,Home Decor,Wall Clock,4,15483,61932,17,10528.44,51403.56,13954.01,East,Patna,Debit Card
+ORD0019,2024-06-23,Robert Miller,Kitchen,Kettle,1,13168,13168,6,790.08,12377.92,3398.79,South,Chennai,Debit Card
+ORD0020,2024-06-05,Paul Harris,Electronics,Smartphone,5,8619,43095,18,7757.1,35337.9,8720.94,North,Lucknow,Debit Card
+ORD0021,2024-05-17,David Wilson,Kitchen,Microwave,3,13502,40506,10,4050.6,36455.4,7802.5,North,Delhi,Credit Card
+ORD0022,2024-04-12,Sarah Johnson,Kitchen,Mixer Grinder,5,11642,58210,5,2910.5,55299.5,12691.74,North,Lucknow,Credit Card
+ORD0023,2024-06-08,Nancy White,Home Decor,Cushion,3,18697,56091,18,10096.38,45994.62,10349.75,West,Mumbai,Credit Card
+ORD0024,2024-01-23,Kevin Young,Home Decor,Vase,1,12509,12509,10,1250.9,11258.1,3199.33,West,Ahmedabad,Debit Card
+ORD0025,2024-05-20,Angela King,Kitchen,Non-stick Pan,3,4095,12285,7,859.95,11425.05,1568.89,East,Bhubaneswar,Cash
+ORD0026,2024-02-19,Karen Allen,Home Decor,Vase,4,2777,11108,6,666.48,10441.52,2443.03,North,Delhi,Cash
+ORD0027,2024-06-03,Laura Martin,Kitchen,Knife Set,3,14984,44952,9,4045.68,40906.32,5932.28,East,Kolkata,Credit Card
+ORD0028,2024-02-10,David Wilson,Kitchen,Mixer Grinder,4,16614,66456,5,3322.8,63133.2,4524.39,West,Ahmedabad,Debit Card
+ORD0029,2024-03-22,Patricia Garcia,Clothing,Jacket,2,14414,28828,7,2017.96,26810.04,4151.83,North,Lucknow,Credit Card
+ORD0030,2024-01-04,Daniel Thomas,Home Decor,Wall Clock,1,15710,15710,6,942.6,14767.4,3502.98,West,Pune,Cash
+ORD0031,2024-04-23,Karen Allen,Kitchen,Microwave,4,3163,12652,11,1391.72,11260.28,1603.71,East,Kolkata,Debit Card
+ORD0032,2024-01-17,Paul Harris,Beauty,Nail Polish,3,17069,51207,8,4096.56,47110.44,7459.85,North,Chandigarh,Credit Card
+ORD0033,2024-06-16,Brian Scott,Kitchen,Knife Set,4,9064,36256,5,1812.8,34443.2,1873.63,West,Pune,UPI
+ORD0034,2024-05-16,John Smith,Kitchen,Non-stick Pan,3,13635,40905,20,8181.0,32724.0,5136.15,West,Ahmedabad,UPI
+ORD0035,2024-01-11,John Smith,Kitchen,Kettle,3,3813,11439,15,1715.85,9723.15,2012.53,East,Kolkata,Credit Card
+ORD0036,2024-01-12,David Wilson,Beauty,Face Cream,4,3443,13772,15,2065.8,11706.2,621.11,North,Lucknow,Credit Card
+ORD0037,2024-04-10,Laura Martin,Beauty,Shampoo,3,11911,35733,19,6789.27,28943.73,7353.86,East,Kolkata,Credit Card
+ORD0038,2024-06-04,Patricia Garcia,Home Decor,Cushion,3,11996,35988,17,6117.96,29870.04,6318.82,South,Chennai,Credit Card
+ORD0039,2024-04-27,Laura Martin,Clothing,Sneakers,4,16865,67460,8,5396.8,62063.2,16586.99,North,Chandigarh,Debit Card
+ORD0040,2024-03-07,Angela King,Clothing,Socks,3,8444,25332,11,2786.52,22545.48,3132.51,East,Patna,Credit Card
+ORD0041,2024-06-13,Linda Taylor,Home Decor,Vase,5,14279,71395,17,12137.15,59257.85,7615.85,West,Ahmedabad,Cash
+ORD0042,2024-05-14,Paul Harris,Electronics,Wireless Mouse,2,19604,39208,14,5489.12,33718.88,6990.13,North,Delhi,Credit Card
+ORD0043,2024-03-25,Patricia Garcia,Electronics,Tablet,2,12057,24114,16,3858.24,20255.760000000002,4568.2,East,Patna,Credit Card
+ORD0044,2024-05-31,Sarah Johnson,Beauty,Nail Polish,3,8907,26721,9,2404.89,24316.11,6782.54,North,Lucknow,UPI
+ORD0045,2024-01-06,James Brown,Home Decor,Cushion,4,1062,4248,17,722.16,3525.84,214.84,West,Ahmedabad,Credit Card
+ORD0046,2024-04-30,Mary Jones,Home Decor,Vase,4,9603,38412,18,6914.16,31497.84,7452.15,North,Lucknow,UPI
+ORD0047,2024-03-30,Robert Miller,Home Decor,Cushion,4,14617,58468,16,9354.88,49113.12,3102.5,East,Patna,Cash
+ORD0048,2024-05-18,Edward Walker,Electronics,Earbuds,2,11568,23136,17,3933.12,19202.88,1877.21,North,Chandigarh,Credit Card
+ORD0049,2024-06-10,Emily Davis,Kitchen,Knife Set,3,6331,18993,13,2469.09,16523.91,3136.81,North,Lucknow,Debit Card
+ORD0050,2024-03-29,Brian Scott,Clothing,Jacket,2,13962,27924,15,4188.6,23735.4,2583.93,South,Hyderabad,Credit Card
+ORD0051,2024-02-04,Paul Harris,Electronics,Earbuds,3,16305,48915,10,4891.5,44023.5,10184.81,East,Bhubaneswar,Cash
+ORD0052,2024-05-12,Paul Harris,Electronics,Tablet,1,7779,7779,20,1555.8,6223.2,723.84,South,Bangalore,Credit Card
+ORD0053,2024-04-28,Linda Taylor,Clothing,Cotton T-shirt,3,6157,18471,8,1477.68,16993.32,2358.7,North,Delhi,Cash
+ORD0054,2024-04-04,Robert Miller,Electronics,Earbuds,4,2734,10936,11,1202.96,9733.04,713.46,West,Pune,Cash
+ORD0055,2024-03-13,Angela King,Kitchen,Mixer Grinder,2,10883,21766,13,2829.58,18936.42,3936.35,South,Chennai,Credit Card
+ORD0056,2024-05-14,Linda Taylor,Beauty,Lipstick,2,14500,29000,19,5510.0,23490.0,4481.63,South,Hyderabad,UPI
+ORD0057,2024-05-05,Michael Lee,Electronics,Tablet,1,19532,19532,13,2539.16,16992.84,3250.84,East,Kolkata,Debit Card
+ORD0058,2024-02-02,Emily Davis,Home Decor,Rug,3,18599,55797,18,10043.46,45753.54,12655.42,East,Kolkata,Credit Card
+ORD0059,2024-06-18,David Wilson,Kitchen,Mixer Grinder,5,9488,47440,18,8539.2,38900.8,5742.39,East,Bhubaneswar,Credit Card
+ORD0060,2024-05-11,Brian Scott,Electronics,Wireless Mouse,3,10498,31494,14,4409.16,27084.84,5912.16,North,Delhi,Debit Card
+ORD0061,2024-03-09,Linda Taylor,Beauty,Hair Dryer,5,5844,29220,20,5844.0,23376.0,6452.41,East,Bhubaneswar,Debit Card
+ORD0062,2024-05-26,Daniel Thomas,Beauty,Face Cream,1,3254,3254,14,455.56,2798.44,570.66,South,Bangalore,Credit Card
+ORD0063,2024-06-23,Daniel Thomas,Home Decor,Photo Frame,1,17390,17390,5,869.5,16520.5,1130.66,North,Delhi,Cash
+ORD0064,2024-01-12,Nancy White,Clothing,Socks,2,5113,10226,13,1329.38,8896.619999999999,669.75,South,Chennai,UPI
+ORD0065,2024-03-16,Michael Lee,Beauty,Face Cream,5,19785,98925,7,6924.75,92000.25,18793.15,East,Bhubaneswar,Debit Card
+ORD0066,2024-06-19,Brian Scott,Kitchen,Kettle,3,5067,15201,18,2736.18,12464.82,3331.26,North,Delhi,UPI
+ORD0067,2024-04-09,James Brown,Beauty,Lipstick,5,15175,75875,18,13657.5,62217.5,15847.3,East,Kolkata,UPI
+ORD0068,2024-06-11,Susan Hill,Beauty,Face Cream,1,1839,1839,20,367.8,1471.2,350.86,West,Pune,Cash
+ORD0069,2024-03-27,Daniel Thomas,Kitchen,Microwave,5,16389,81945,5,4097.25,77847.75,4790.71,South,Chennai,Credit Card
+ORD0070,2024-03-05,Daniel Thomas,Home Decor,Table Lamp,3,14793,44379,10,4437.9,39941.1,5921.09,East,Patna,Debit Card
+ORD0071,2024-02-23,Linda Taylor,Beauty,Hair Dryer,5,17072,85360,7,5975.2,79384.8,22990.51,East,Patna,UPI
+ORD0072,2024-04-17,Edward Walker,Home Decor,Wall Clock,4,3474,13896,6,833.76,13062.24,1710.57,West,Pune,Debit Card
+ORD0073,2024-02-03,Laura Martin,Electronics,Earbuds,4,4900,19600,17,3332.0,16268.0,1003.78,South,Bangalore,Credit Card
+ORD0074,2024-05-18,Angela King,Beauty,Shampoo,2,3725,7450,7,521.5,6928.5,1074.48,West,Pune,Debit Card
+ORD0075,2024-03-10,John Smith,Electronics,Wireless Mouse,5,19086,95430,13,12405.9,83024.1,7093.28,West,Pune,UPI
+ORD0076,2024-05-06,Angela King,Kitchen,Non-stick Pan,5,10202,51010,8,4080.8,46929.2,13821.0,North,Delhi,Debit Card
+ORD0077,2024-01-20,Angela King,Clothing,Cotton T-shirt,2,10143,20286,10,2028.6,18257.4,2574.73,South,Chennai,Cash
+ORD0078,2024-02-03,Kevin Young,Clothing,Socks,5,11772,58860,15,8829.0,50031.0,6138.01,East,Patna,UPI
+ORD0079,2024-01-05,Laura Martin,Beauty,Face Cream,4,2136,8544,17,1452.48,7091.52,1221.19,North,Delhi,Cash
+ORD0080,2024-02-20,Karen Allen,Beauty,Perfume,2,9800,19600,5,980.0,18620.0,4818.04,East,Patna,Debit Card
+ORD0081,2024-04-10,Emily Davis,Clothing,Sneakers,1,9962,9962,9,896.58,9065.42,1674.34,East,Bhubaneswar,Credit Card
+ORD0082,2024-06-11,Nancy White,Clothing,Cotton T-shirt,1,15435,15435,13,2006.55,13428.45,2730.22,South,Chennai,Credit Card
+ORD0083,2024-04-02,David Wilson,Beauty,Nail Polish,5,16658,83290,18,14992.2,68297.8,10192.7,East,Bhubaneswar,Credit Card
+ORD0084,2024-02-20,Laura Martin,Beauty,Face Cream,2,4471,8942,8,715.36,8226.64,608.66,North,Delhi,Cash
+ORD0085,2024-02-12,Daniel Thomas,Electronics,Earbuds,1,2890,2890,17,491.3,2398.7,388.95,East,Bhubaneswar,UPI
+ORD0086,2024-02-29,Brian Scott,Kitchen,Mixer Grinder,2,6667,13334,9,1200.06,12133.94,1003.63,North,Lucknow,Debit Card
+ORD0087,2024-04-24,Paul Harris,Home Decor,Cushion,3,15128,45384,19,8622.96,36761.04,6547.51,North,Chandigarh,Credit Card
+ORD0088,2024-06-08,Mary Jones,Clothing,Socks,2,5249,10498,15,1574.7,8923.3,1762.09,North,Delhi,Cash
+ORD0089,2024-05-23,James Brown,Home Decor,Photo Frame,3,14260,42780,5,2139.0,40641.0,6544.71,West,Mumbai,Debit Card
+ORD0090,2024-05-19,David Wilson,Electronics,Laptop,4,14771,59084,9,5317.56,53766.44,10452.2,West,Mumbai,UPI
+ORD0091,2024-03-11,Susan Hill,Home Decor,Wall Clock,3,19813,59439,15,8915.85,50523.15,13704.5,West,Mumbai,Debit Card
+ORD0092,2024-01-18,Robert Miller,Beauty,Perfume,2,3247,6494,7,454.58,6039.42,1337.74,West,Pune,Cash
+ORD0093,2024-03-21,Patricia Garcia,Beauty,Nail Polish,3,15617,46851,15,7027.65,39823.35,11750.01,East,Kolkata,Cash
+ORD0094,2024-06-12,Mary Jones,Kitchen,Kettle,1,6007,6007,18,1081.26,4925.74,1146.59,North,Delhi,Credit Card
+ORD0095,2024-06-17,Emily Davis,Electronics,Smartphone,2,17697,35394,18,6370.92,29023.08,8509.42,South,Chennai,UPI
+ORD0096,2024-06-17,David Wilson,Clothing,Dress,5,13663,68315,13,8880.95,59434.05,9084.3,West,Pune,Credit Card
+ORD0097,2024-01-23,Brian Scott,Home Decor,Photo Frame,5,16138,80690,13,10489.7,70200.3,4243.57,North,Delhi,Cash
+ORD0098,2024-03-04,Emily Davis,Electronics,Bluetooth Speaker,1,15902,15902,16,2544.32,13357.68,3420.62,South,Hyderabad,Credit Card
+ORD0099,2024-05-13,Linda Taylor,Kitchen,Non-stick Pan,3,726,2178,6,130.68,2047.32,595.24,South,Hyderabad,Cash
+ORD0100,2024-01-26,Paul Harris,Electronics,Smartphone,3,4276,12828,10,1282.8,11545.2,2316.9,West,Pune,UPI
+ORD0101,2024-03-16,Angela King,Home Decor,Wall Clock,3,9185,27555,14,3857.7,23697.3,2400.33,North,Lucknow,UPI
+ORD0102,2024-06-18,Angela King,Home Decor,Photo Frame,2,2765,5530,13,718.9,4811.1,388.07,East,Bhubaneswar,UPI
+ORD0103,2024-04-29,Angela King,Beauty,Nail Polish,3,16475,49425,6,2965.5,46459.5,13102.28,East,Kolkata,Cash
+ORD0104,2024-06-12,Sarah Johnson,Kitchen,Knife Set,2,15994,31988,5,1599.4,30388.6,5176.72,South,Bangalore,Debit Card
+ORD0105,2024-03-12,Laura Martin,Beauty,Perfume,2,10846,21692,7,1518.44,20173.56,2379.36,South,Hyderabad,UPI
+ORD0106,2024-03-31,Michael Lee,Clothing,Sneakers,1,14872,14872,16,2379.52,12492.48,3295.76,South,Hyderabad,Debit Card
+ORD0107,2024-04-21,Edward Walker,Kitchen,Kettle,1,6655,6655,16,1064.8,5590.2,718.68,West,Mumbai,Cash
+ORD0108,2024-05-28,Linda Taylor,Home Decor,Photo Frame,4,15382,61528,17,10459.76,51068.24,6425.72,West,Ahmedabad,UPI
+ORD0109,2024-05-15,Angela King,Kitchen,Non-stick Pan,3,10098,30294,11,3332.34,26961.66,1964.3,South,Hyderabad,Credit Card
+ORD0110,2024-06-28,Paul Harris,Kitchen,Kettle,1,14750,14750,11,1622.5,13127.5,1105.77,North,Delhi,Cash
+ORD0111,2024-01-03,Patricia Garcia,Home Decor,Wall Clock,5,8823,44115,16,7058.4,37056.6,3809.13,South,Chennai,UPI
+ORD0112,2024-03-26,Daniel Thomas,Clothing,Sneakers,2,9836,19672,14,2754.08,16917.92,4366.32,West,Mumbai,UPI
+ORD0113,2024-01-10,Nancy White,Kitchen,Dinner Set,1,2110,2110,6,126.6,1983.4,230.34,West,Mumbai,Credit Card
+ORD0114,2024-01-08,James Brown,Electronics,Laptop,5,7483,37415,6,2244.9,35170.1,7228.23,West,Pune,UPI
+ORD0115,2024-02-07,James Brown,Kitchen,Mixer Grinder,5,8813,44065,6,2643.9,41421.1,2477.45,North,Lucknow,Credit Card
+ORD0116,2024-05-27,Nancy White,Home Decor,Photo Frame,1,9120,9120,16,1459.2,7660.8,1502.57,North,Delhi,Debit Card
+ORD0117,2024-03-17,Susan Hill,Kitchen,Non-stick Pan,1,14614,14614,14,2045.96,12568.04,1367.76,South,Chennai,UPI
+ORD0118,2024-05-06,Patricia Garcia,Clothing,Cotton T-shirt,1,15331,15331,6,919.86,14411.14,4308.49,East,Bhubaneswar,Cash
+ORD0119,2024-04-10,Mary Jones,Electronics,Earbuds,4,15476,61904,8,4952.32,56951.68,14971.86,North,Lucknow,UPI
+ORD0120,2024-02-11,Kevin Young,Electronics,Wireless Mouse,4,10249,40996,6,2459.76,38536.24,5377.66,South,Hyderabad,UPI
+ORD0121,2024-04-22,David Wilson,Electronics,Wireless Mouse,5,3954,19770,15,2965.5,16804.5,4427.08,West,Pune,UPI
+ORD0122,2024-06-04,Nancy White,Beauty,Perfume,2,8311,16622,20,3324.4,13297.6,1974.56,South,Chennai,Credit Card
+ORD0123,2024-02-26,Linda Taylor,Kitchen,Mixer Grinder,3,692,2076,20,415.2,1660.8,338.98,South,Hyderabad,Debit Card
+ORD0124,2024-02-11,Karen Allen,Beauty,Shampoo,5,15725,78625,13,10221.25,68403.75,9462.19,East,Bhubaneswar,Credit Card
+ORD0125,2024-04-27,Paul Harris,Clothing,Socks,1,10242,10242,10,1024.2,9217.8,1959.9,East,Bhubaneswar,UPI
+ORD0126,2024-01-12,Karen Allen,Clothing,Jacket,5,15942,79710,18,14347.8,65362.2,18860.44,East,Bhubaneswar,Cash
+ORD0127,2024-04-07,Angela King,Kitchen,Kettle,2,15330,30660,14,4292.4,26367.6,6653.57,East,Patna,Cash
+ORD0128,2024-05-30,Robert Miller,Clothing,Socks,4,4444,17776,20,3555.2,14220.8,1487.8,South,Bangalore,Credit Card
+ORD0129,2024-02-26,Emily Davis,Home Decor,Rug,1,2183,2183,18,392.94,1790.06,426.92,South,Hyderabad,Debit Card
+ORD0130,2024-05-20,Angela King,Home Decor,Photo Frame,5,3913,19565,13,2543.45,17021.55,957.87,West,Pune,Cash
+ORD0131,2024-01-17,Michael Lee,Electronics,Earbuds,3,14427,43281,6,2596.86,40684.14,4564.21,South,Hyderabad,Cash
+ORD0132,2024-01-18,Robert Miller,Kitchen,Microwave,2,11984,23968,11,2636.48,21331.52,6156.82,South,Hyderabad,UPI
+ORD0133,2024-04-27,Brian Scott,Home Decor,Cushion,4,2684,10736,9,966.24,9769.76,1639.8,North,Chandigarh,UPI
+ORD0134,2024-01-29,Paul Harris,Electronics,Wireless Mouse,3,14483,43449,5,2172.45,41276.55,7958.03,North,Delhi,Debit Card
+ORD0135,2024-05-30,Emily Davis,Beauty,Hair Dryer,4,7975,31900,15,4785.0,27115.0,8058.13,South,Hyderabad,Cash
+ORD0136,2024-05-23,Emily Davis,Beauty,Hair Dryer,3,5540,16620,18,2991.6,13628.4,3745.26,East,Bhubaneswar,Cash
+ORD0137,2024-06-26,Mary Jones,Kitchen,Kettle,2,12357,24714,14,3459.96,21254.04,1748.12,North,Lucknow,UPI
+ORD0138,2024-06-09,Michael Lee,Kitchen,Mixer Grinder,2,6937,13874,6,832.44,13041.56,1575.02,South,Chennai,UPI
+ORD0139,2024-01-18,Laura Martin,Kitchen,Kettle,1,13650,13650,13,1774.5,11875.5,2624.54,South,Bangalore,Debit Card
+ORD0140,2024-04-08,Edward Walker,Home Decor,Cushion,3,13652,40956,18,7372.08,33583.92,7366.57,East,Patna,Debit Card
+ORD0141,2024-02-09,Daniel Thomas,Clothing,Socks,1,18519,18519,7,1296.33,17222.67,979.78,West,Ahmedabad,Debit Card
+ORD0142,2024-06-10,Linda Taylor,Beauty,Nail Polish,4,14033,56132,13,7297.16,48834.84,7581.17,East,Patna,Debit Card
+ORD0143,2024-06-15,David Wilson,Electronics,Earbuds,5,1737,8685,13,1129.05,7555.95,2106.95,East,Patna,Cash
+ORD0144,2024-04-02,Linda Taylor,Kitchen,Non-stick Pan,3,19893,59679,5,2983.95,56695.05,8676.63,South,Bangalore,Debit Card
+ORD0145,2024-03-20,John Smith,Home Decor,Rug,4,16672,66688,20,13337.6,53350.4,5499.61,South,Bangalore,UPI
+ORD0146,2024-04-03,Mary Jones,Home Decor,Photo Frame,2,16128,32256,7,2257.92,29998.08,7204.53,North,Lucknow,Credit Card
+ORD0147,2024-01-02,Kevin Young,Electronics,Earbuds,5,5618,28090,13,3651.7,24438.3,5680.73,West,Ahmedabad,Debit Card
+ORD0148,2024-06-18,Michael Lee,Clothing,Socks,3,11766,35298,20,7059.6,28238.4,6995.79,South,Bangalore,Cash
+ORD0149,2024-02-15,John Smith,Home Decor,Rug,1,8197,8197,7,573.79,7623.21,2165.5,West,Pune,Debit Card
+ORD0150,2024-04-11,Robert Miller,Home Decor,Rug,1,18670,18670,9,1680.3,16989.7,1114.48,North,Delhi,Cash
+ORD0151,2024-06-12,Robert Miller,Clothing,Socks,2,12014,24028,13,3123.64,20904.36,2005.83,South,Chennai,Cash
+ORD0152,2024-05-14,Robert Miller,Kitchen,Kettle,1,5570,5570,11,612.7,4957.3,612.11,East,Patna,UPI
+ORD0153,2024-02-10,Emily Davis,Home Decor,Table Lamp,5,3658,18290,7,1280.3,17009.7,4313.22,North,Chandigarh,Credit Card
+ORD0154,2024-05-22,David Wilson,Electronics,Bluetooth Speaker,5,15748,78740,16,12598.4,66141.6,11796.0,West,Pune,Cash
+ORD0155,2024-06-02,Brian Scott,Clothing,Denim Jeans,2,18509,37018,13,4812.34,32205.66,6708.28,West,Ahmedabad,Debit Card
+ORD0156,2024-05-13,Nancy White,Clothing,Cotton T-shirt,2,3565,7130,8,570.4,6559.6,496.91,North,Delhi,Credit Card
+ORD0157,2024-04-01,Robert Miller,Electronics,Wireless Mouse,4,4977,19908,18,3583.44,16324.56,1998.98,North,Lucknow,Credit Card
+ORD0158,2024-05-15,Angela King,Beauty,Perfume,4,12526,50104,8,4008.32,46095.68,8955.58,West,Mumbai,UPI
+ORD0159,2024-02-21,Michael Lee,Clothing,Sneakers,5,6431,32155,18,5787.9,26367.1,4162.24,South,Bangalore,Credit Card
+ORD0160,2024-02-08,Nancy White,Beauty,Face Cream,1,15331,15331,10,1533.1,13797.9,2808.56,North,Lucknow,Credit Card
+ORD0161,2024-06-10,Michael Lee,Kitchen,Dinner Set,5,11021,55105,12,6612.6,48492.4,7402.36,East,Kolkata,UPI
+ORD0162,2024-01-01,Patricia Garcia,Clothing,Cotton T-shirt,1,1029,1029,17,174.93,854.0699999999999,249.94,West,Pune,Cash
+ORD0163,2024-01-20,Karen Allen,Home Decor,Photo Frame,3,18655,55965,7,3917.55,52047.45,6297.85,East,Kolkata,Debit Card
+ORD0164,2024-01-10,David Wilson,Home Decor,Rug,5,6866,34330,7,2403.1,31926.9,9278.85,North,Delhi,Debit Card
+ORD0165,2024-01-02,Paul Harris,Beauty,Lipstick,3,14461,43383,20,8676.6,34706.4,9528.2,East,Bhubaneswar,Cash
+ORD0166,2024-02-11,Laura Martin,Home Decor,Rug,5,8682,43410,19,8247.9,35162.1,3481.97,South,Hyderabad,Debit Card
+ORD0167,2024-02-29,Michael Lee,Home Decor,Table Lamp,2,206,412,19,78.28,333.72,30.37,South,Hyderabad,Credit Card
+ORD0168,2024-01-26,Paul Harris,Clothing,Sneakers,5,13824,69120,8,5529.6,63590.4,9515.2,East,Bhubaneswar,Debit Card
+ORD0169,2024-02-11,Karen Allen,Clothing,Jacket,1,5036,5036,6,302.16,4733.84,1237.85,West,Mumbai,Credit Card
+ORD0170,2024-06-08,James Brown,Kitchen,Kettle,4,18710,74840,15,11226.0,63614.0,11313.17,West,Ahmedabad,UPI
+ORD0171,2024-04-30,Brian Scott,Kitchen,Microwave,3,3395,10185,11,1120.35,9064.65,2560.84,South,Chennai,Cash
+ORD0172,2024-02-28,Sarah Johnson,Kitchen,Kettle,2,6005,12010,17,2041.7,9968.3,1099.6,North,Delhi,Debit Card
+ORD0173,2024-05-11,Paul Harris,Beauty,Nail Polish,5,18474,92370,5,4618.5,87751.5,14087.07,East,Bhubaneswar,UPI
+ORD0174,2024-06-20,Brian Scott,Electronics,Laptop,3,3684,11052,17,1878.84,9173.16,1253.22,West,Ahmedabad,Debit Card
+ORD0175,2024-03-02,Brian Scott,Clothing,Dress,4,16463,65852,19,12511.88,53340.12,7887.66,East,Kolkata,UPI
+ORD0176,2024-03-07,Susan Hill,Beauty,Face Cream,3,2338,7014,11,771.54,6242.46,1578.0,South,Hyderabad,Debit Card
+ORD0177,2024-02-13,Laura Martin,Clothing,Dress,2,1235,2470,7,172.9,2297.1,270.52,West,Mumbai,UPI
+ORD0178,2024-02-23,Robert Miller,Clothing,Denim Jeans,1,17324,17324,18,3118.32,14205.68,2254.59,North,Delhi,UPI
+ORD0179,2024-03-20,John Smith,Electronics,Tablet,3,4703,14109,13,1834.17,12274.83,761.52,East,Patna,Cash
+ORD0180,2024-03-15,Edward Walker,Home Decor,Table Lamp,5,9209,46045,17,7827.65,38217.35,9352.54,West,Pune,Debit Card
+ORD0181,2024-04-18,Nancy White,Electronics,Wireless Mouse,5,8384,41920,7,2934.4,38985.6,3206.31,West,Mumbai,UPI
+ORD0182,2024-03-29,Robert Miller,Electronics,Tablet,5,17480,87400,16,13984.0,73416.0,14151.65,North,Lucknow,Credit Card
+ORD0183,2024-03-08,Karen Allen,Kitchen,Dinner Set,3,6542,19626,20,3925.2,15700.8,2872.66,East,Bhubaneswar,UPI
+ORD0184,2024-04-15,Mary Jones,Kitchen,Knife Set,4,14815,59260,9,5333.4,53926.6,9903.54,East,Kolkata,Credit Card
+ORD0185,2024-05-24,John Smith,Home Decor,Wall Clock,5,8601,43005,18,7740.9,35264.1,6088.73,North,Delhi,Debit Card
+ORD0186,2024-03-28,Michael Lee,Home Decor,Cushion,2,15707,31414,19,5968.66,25445.34,4160.58,East,Bhubaneswar,Debit Card
+ORD0187,2024-04-29,Paul Harris,Electronics,Tablet,3,14844,44532,16,7125.12,37406.88,4767.24,West,Pune,Credit Card
+ORD0188,2024-03-28,Kevin Young,Clothing,Socks,2,10214,20428,14,2859.92,17568.08,4116.98,South,Bangalore,Cash
+ORD0189,2024-02-26,Brian Scott,Home Decor,Wall Clock,5,13703,68515,14,9592.1,58922.9,8412.32,West,Pune,UPI
+ORD0190,2024-04-09,David Wilson,Electronics,Tablet,4,12161,48644,5,2432.2,46211.8,8811.37,South,Bangalore,Debit Card
+ORD0191,2024-04-27,James Brown,Electronics,Laptop,1,8257,8257,14,1155.98,7101.02,1973.31,North,Delhi,Credit Card
+ORD0192,2024-01-02,Susan Hill,Beauty,Nail Polish,2,14644,29288,14,4100.32,25187.68,3353.5,South,Bangalore,Cash
+ORD0193,2024-06-25,Emily Davis,Home Decor,Cushion,1,13311,13311,15,1996.65,11314.35,2831.59,North,Delhi,Credit Card
+ORD0194,2024-04-07,Karen Allen,Home Decor,Photo Frame,1,15365,15365,17,2612.05,12752.95,1702.63,East,Kolkata,Credit Card
+ORD0195,2024-04-06,Laura Martin,Beauty,Face Cream,3,874,2622,15,393.3,2228.7,459.07,East,Kolkata,Cash
+ORD0196,2024-01-21,Daniel Thomas,Home Decor,Wall Clock,1,4497,4497,19,854.43,3642.57,265.88,South,Hyderabad,Debit Card
+ORD0197,2024-06-25,Mary Jones,Beauty,Nail Polish,2,4569,9138,7,639.66,8498.34,908.52,South,Bangalore,Credit Card
+ORD0198,2024-05-07,Daniel Thomas,Beauty,Hair Dryer,2,6870,13740,17,2335.8,11404.2,806.5,West,Pune,Credit Card
+ORD0199,2024-05-17,Mary Jones,Beauty,Lipstick,2,19191,38382,12,4605.84,33776.16,4997.16,West,Pune,Debit Card
+ORD0200,2024-06-27,Michael Lee,Beauty,Shampoo,2,3335,6670,9,600.3,6069.7,408.58,South,Hyderabad,Credit Card
+ORD0201,2024-05-07,James Brown,Electronics,Earbuds,5,18786,93930,6,5635.8,88294.2,14593.64,South,Bangalore,Cash
+ORD0202,2024-04-25,Edward Walker,Home Decor,Rug,2,6561,13122,6,787.32,12334.68,2847.45,North,Delhi,UPI
+ORD0203,2024-05-05,Daniel Thomas,Clothing,Denim Jeans,2,17198,34396,7,2407.72,31988.28,4366.27,East,Kolkata,Debit Card
+ORD0204,2024-05-13,Angela King,Electronics,Tablet,5,16022,80110,20,16022.0,64088.0,7082.14,West,Mumbai,Debit Card
+ORD0205,2024-02-06,Angela King,Clothing,Denim Jeans,3,5252,15756,14,2205.84,13550.16,1072.89,South,Chennai,UPI
+ORD0206,2024-04-23,Linda Taylor,Electronics,Smartphone,2,940,1880,9,169.2,1710.8,412.64,East,Patna,UPI
+ORD0207,2024-04-11,Angela King,Kitchen,Knife Set,1,8462,8462,12,1015.44,7446.5599999999995,1925.45,West,Pune,Credit Card
+ORD0208,2024-06-03,Paul Harris,Home Decor,Vase,4,3560,14240,14,1993.6,12246.4,2973.66,East,Patna,Credit Card
+ORD0209,2024-04-21,Robert Miller,Home Decor,Photo Frame,3,5125,15375,16,2460.0,12915.0,3545.13,West,Pune,Cash
+ORD0210,2024-03-31,Edward Walker,Electronics,Smartphone,5,7847,39235,15,5885.25,33349.75,8304.5,North,Chandigarh,Credit Card
+ORD0211,2024-06-23,Edward Walker,Electronics,Laptop,2,15030,30060,6,1803.6,28256.4,3905.85,South,Chennai,Debit Card
+ORD0212,2024-01-06,John Smith,Electronics,Tablet,5,5452,27260,15,4089.0,23171.0,3633.89,South,Chennai,Cash
+ORD0213,2024-05-03,Patricia Garcia,Beauty,Face Cream,1,11001,11001,11,1210.11,9790.89,1001.63,West,Pune,UPI
+ORD0214,2024-06-17,Kevin Young,Home Decor,Rug,3,6943,20829,9,1874.61,18954.39,955.4,West,Pune,UPI
+ORD0215,2024-02-06,Laura Martin,Clothing,Jacket,2,16369,32738,11,3601.18,29136.82,5536.16,North,Chandigarh,Cash
+ORD0216,2024-05-15,Karen Allen,Home Decor,Vase,4,4906,19624,12,2354.88,17269.12,2165.4,East,Patna,Debit Card
+ORD0217,2024-05-25,Mary Jones,Electronics,Wireless Mouse,1,9785,9785,20,1957.0,7828.0,2345.27,South,Bangalore,Debit Card
+ORD0218,2024-05-05,Karen Allen,Electronics,Tablet,4,14288,57152,9,5143.68,52008.32,7990.83,East,Kolkata,Credit Card
+ORD0219,2024-05-02,Sarah Johnson,Electronics,Earbuds,2,1797,3594,18,646.92,2947.08,651.29,West,Mumbai,Debit Card
+ORD0220,2024-04-23,Edward Walker,Electronics,Laptop,2,4573,9146,14,1280.44,7865.5599999999995,1232.38,West,Pune,Cash
+ORD0221,2024-01-02,John Smith,Electronics,Wireless Mouse,5,13743,68715,8,5497.2,63217.8,4536.99,East,Kolkata,Cash
+ORD0222,2024-06-04,James Brown,Home Decor,Photo Frame,2,1691,3382,18,608.76,2773.24,600.41,North,Delhi,UPI
+ORD0223,2024-01-08,Susan Hill,Electronics,Laptop,1,15773,15773,12,1892.76,13880.24,1705.27,North,Lucknow,UPI
+ORD0224,2024-03-22,David Wilson,Home Decor,Table Lamp,3,3841,11523,17,1958.91,9564.09,550.89,West,Ahmedabad,Credit Card
+ORD0225,2024-05-19,Michael Lee,Electronics,Laptop,3,18818,56454,16,9032.64,47421.36,13361.09,North,Chandigarh,Credit Card
+ORD0226,2024-06-21,Mary Jones,Kitchen,Microwave,5,19288,96440,10,9644.0,86796.0,24245.58,South,Bangalore,Cash
+ORD0227,2024-04-30,Kevin Young,Kitchen,Dinner Set,2,5819,11638,6,698.28,10939.72,897.77,West,Pune,Debit Card
+ORD0228,2024-06-29,Paul Harris,Home Decor,Table Lamp,3,16365,49095,9,4418.55,44676.45,10139.42,West,Pune,Credit Card
+ORD0229,2024-03-28,Nancy White,Electronics,Laptop,4,6237,24948,17,4241.16,20706.84,1279.69,South,Chennai,Debit Card
+ORD0230,2024-04-16,Angela King,Electronics,Bluetooth Speaker,2,1608,3216,13,418.08,2797.92,698.01,South,Hyderabad,Debit Card
+ORD0231,2024-01-30,James Brown,Kitchen,Mixer Grinder,5,19281,96405,15,14460.75,81944.25,14762.85,South,Chennai,Credit Card
+ORD0232,2024-06-18,Emily Davis,Clothing,Jacket,1,19831,19831,17,3371.27,16459.73,4513.66,South,Chennai,UPI
+ORD0233,2024-05-09,Michael Lee,Home Decor,Photo Frame,5,1506,7530,8,602.4,6927.6,1891.24,East,Patna,Credit Card
+ORD0234,2024-04-26,Kevin Young,Kitchen,Kettle,2,4146,8292,8,663.36,7628.64,1598.36,South,Bangalore,UPI
+ORD0235,2024-03-25,Robert Miller,Kitchen,Kettle,3,9709,29127,12,3495.24,25631.760000000002,1416.41,North,Chandigarh,Cash
+ORD0236,2024-01-05,Emily Davis,Home Decor,Wall Clock,1,7998,7998,9,719.82,7278.18,1197.32,North,Lucknow,Credit Card
+ORD0237,2024-01-24,Nancy White,Home Decor,Cushion,3,4497,13491,20,2698.2,10792.8,1814.4,East,Kolkata,Credit Card
+ORD0238,2024-01-02,Mary Jones,Electronics,Laptop,3,11447,34341,16,5494.56,28846.44,6252.86,North,Delhi,Cash
+ORD0239,2024-01-22,Mary Jones,Beauty,Face Cream,2,16673,33346,16,5335.36,28010.64,2266.39,West,Ahmedabad,Cash
+ORD0240,2024-06-24,David Wilson,Home Decor,Table Lamp,5,18908,94540,7,6617.8,87922.2,10220.89,West,Ahmedabad,Credit Card
+ORD0241,2024-01-17,Robert Miller,Clothing,Cotton T-shirt,5,1144,5720,18,1029.6,4690.4,928.31,South,Bangalore,UPI
+ORD0242,2024-02-15,Robert Miller,Electronics,Laptop,3,13754,41262,10,4126.2,37135.8,4943.11,East,Patna,Debit Card
+ORD0243,2024-03-10,Angela King,Clothing,Denim Jeans,2,10855,21710,14,3039.4,18670.6,2857.72,West,Ahmedabad,Debit Card
+ORD0244,2024-04-19,Nancy White,Home Decor,Wall Clock,2,11912,23824,12,2858.88,20965.12,4903.68,East,Kolkata,Debit Card
+ORD0245,2024-03-04,Laura Martin,Electronics,Laptop,2,12363,24726,16,3956.16,20769.84,4758.11,North,Chandigarh,Credit Card
+ORD0246,2024-05-27,Robert Miller,Clothing,Denim Jeans,1,18322,18322,20,3664.4,14657.6,1035.28,East,Kolkata,Cash
+ORD0247,2024-06-01,Emily Davis,Kitchen,Mixer Grinder,3,6792,20376,18,3667.68,16708.32,4974.56,South,Bangalore,Debit Card
+ORD0248,2024-04-05,Brian Scott,Beauty,Nail Polish,4,3173,12692,8,1015.36,11676.64,2073.51,North,Chandigarh,Cash
+ORD0249,2024-01-08,Nancy White,Clothing,Jacket,1,9743,9743,8,779.44,8963.56,1045.97,East,Patna,Cash
+ORD0250,2024-01-19,Daniel Thomas,Clothing,Cotton T-shirt,5,136,680,11,74.8,605.2,149.3,North,Chandigarh,UPI
+ORD0251,2024-03-30,Kevin Young,Kitchen,Kettle,1,818,818,8,65.44,752.56,220.25,West,Ahmedabad,Cash
+ORD0252,2024-06-13,Michael Lee,Electronics,Tablet,5,4243,21215,9,1909.35,19305.65,5562.95,West,Mumbai,Cash
+ORD0253,2024-03-30,Paul Harris,Home Decor,Table Lamp,4,8671,34684,12,4162.08,30521.92,4767.57,East,Patna,UPI
+ORD0254,2024-04-07,Michael Lee,Electronics,Laptop,1,5648,5648,13,734.24,4913.76,670.33,East,Patna,UPI
+ORD0255,2024-04-27,James Brown,Beauty,Perfume,3,11989,35967,5,1798.35,34168.65,6022.38,West,Pune,Cash
+ORD0256,2024-02-06,David Wilson,Beauty,Perfume,5,15118,75590,20,15118.0,60472.0,7836.48,South,Chennai,Cash
+ORD0257,2024-02-23,Karen Allen,Kitchen,Non-stick Pan,2,16899,33798,15,5069.7,28728.3,6676.22,East,Bhubaneswar,Debit Card
+ORD0258,2024-05-28,Daniel Thomas,Home Decor,Rug,5,1147,5735,7,401.45,5333.55,942.04,East,Kolkata,Debit Card
+ORD0259,2024-04-25,Patricia Garcia,Kitchen,Non-stick Pan,4,15007,60028,7,4201.96,55826.04,10258.56,West,Ahmedabad,Debit Card
+ORD0260,2024-01-15,Susan Hill,Beauty,Shampoo,5,5667,28335,19,5383.65,22951.35,5070.26,South,Hyderabad,Cash
+ORD0261,2024-03-29,Patricia Garcia,Beauty,Lipstick,5,3917,19585,19,3721.15,15863.85,3074.8,East,Patna,Cash
+ORD0262,2024-01-28,Karen Allen,Beauty,Face Cream,5,9455,47275,18,8509.5,38765.5,4648.88,West,Pune,Cash
+ORD0263,2024-01-13,Paul Harris,Home Decor,Wall Clock,3,2137,6411,13,833.43,5577.57,502.45,South,Hyderabad,Credit Card
+ORD0264,2024-04-27,Susan Hill,Kitchen,Microwave,4,7614,30456,14,4263.84,26192.16,5026.17,South,Bangalore,Debit Card
+ORD0265,2024-04-21,Robert Miller,Beauty,Face Cream,4,8484,33936,15,5090.4,28845.6,5099.6,East,Bhubaneswar,Debit Card
+ORD0266,2024-06-25,Paul Harris,Beauty,Nail Polish,2,8540,17080,20,3416.0,13664.0,3070.95,East,Kolkata,Cash
+ORD0267,2024-06-16,Emily Davis,Kitchen,Microwave,4,7337,29348,15,4402.2,24945.8,6548.32,North,Delhi,Debit Card
+ORD0268,2024-02-14,Patricia Garcia,Beauty,Face Cream,3,9091,27273,16,4363.68,22909.32,4810.08,West,Pune,Credit Card
+ORD0269,2024-02-20,Laura Martin,Electronics,Laptop,3,15925,47775,6,2866.5,44908.5,2850.77,South,Hyderabad,Cash
+ORD0270,2024-01-01,Laura Martin,Electronics,Smartphone,5,18869,94345,5,4717.25,89627.75,19558.73,South,Chennai,UPI
+ORD0271,2024-06-19,Karen Allen,Clothing,Jacket,3,16348,49044,15,7356.6,41687.4,8018.67,South,Hyderabad,Debit Card
+ORD0272,2024-03-25,Laura Martin,Clothing,Denim Jeans,1,14864,14864,13,1932.32,12931.68,1511.65,West,Ahmedabad,Debit Card
+ORD0273,2024-03-09,Robert Miller,Kitchen,Knife Set,3,8518,25554,17,4344.18,21209.82,5040.51,East,Patna,Debit Card
+ORD0274,2024-03-03,James Brown,Clothing,Denim Jeans,5,5026,25130,12,3015.6,22114.4,6139.56,East,Kolkata,Debit Card
+ORD0275,2024-02-28,Daniel Thomas,Electronics,Laptop,3,1197,3591,18,646.38,2944.62,299.88,North,Lucknow,Debit Card
+ORD0276,2024-02-12,James Brown,Kitchen,Mixer Grinder,5,18087,90435,14,12660.9,77774.1,17174.6,East,Bhubaneswar,Debit Card
+ORD0277,2024-05-24,Angela King,Beauty,Lipstick,2,19568,39136,5,1956.8,37179.2,2531.95,North,Lucknow,Credit Card
+ORD0278,2024-01-11,Laura Martin,Electronics,Wireless Mouse,3,15735,47205,5,2360.25,44844.75,4801.18,South,Chennai,UPI
+ORD0279,2024-04-05,Edward Walker,Electronics,Wireless Mouse,5,7068,35340,10,3534.0,31806.0,1595.93,East,Kolkata,Credit Card
+ORD0280,2024-03-08,Kevin Young,Home Decor,Rug,3,2192,6576,8,526.08,6049.92,904.84,West,Ahmedabad,Credit Card
+ORD0281,2024-03-22,Mary Jones,Clothing,Sneakers,4,7782,31128,11,3424.08,27703.92,5871.43,North,Lucknow,Cash
+ORD0282,2024-05-22,Sarah Johnson,Kitchen,Mixer Grinder,3,13736,41208,6,2472.48,38735.52,8642.83,West,Ahmedabad,UPI
+ORD0283,2024-04-13,Karen Allen,Beauty,Hair Dryer,2,18842,37684,9,3391.56,34292.44,3518.03,North,Chandigarh,Debit Card
+ORD0284,2024-05-21,Robert Miller,Electronics,Wireless Mouse,2,188,376,19,71.44,304.56,61.93,East,Patna,Credit Card
+ORD0285,2024-04-02,Edward Walker,Beauty,Perfume,5,14729,73645,17,12519.65,61125.35,14472.37,South,Chennai,Cash
+ORD0286,2024-06-21,Paul Harris,Kitchen,Knife Set,4,4121,16484,12,1978.08,14505.92,3341.73,North,Delhi,Debit Card
+ORD0287,2024-03-19,Mary Jones,Home Decor,Rug,2,286,572,9,51.48,520.52,84.56,South,Bangalore,Debit Card
+ORD0288,2024-04-27,Mary Jones,Home Decor,Cushion,4,16481,65924,11,7251.64,58672.36,13995.26,East,Patna,UPI
+ORD0289,2024-04-04,Michael Lee,Kitchen,Kettle,1,7940,7940,13,1032.2,6907.8,358.19,North,Lucknow,UPI
+ORD0290,2024-05-08,Mary Jones,Electronics,Wireless Mouse,3,3201,9603,8,768.24,8834.76,1559.23,North,Chandigarh,Cash
+ORD0291,2024-01-13,Laura Martin,Home Decor,Photo Frame,4,16684,66736,6,4004.16,62731.84,12620.13,South,Chennai,Debit Card
+ORD0292,2024-03-18,Daniel Thomas,Beauty,Hair Dryer,2,8512,17024,6,1021.44,16002.56,3779.4,North,Lucknow,Debit Card
+ORD0293,2024-03-20,Kevin Young,Beauty,Perfume,4,8841,35364,18,6365.52,28998.48,7182.4,North,Chandigarh,Debit Card
+ORD0294,2024-02-06,David Wilson,Home Decor,Table Lamp,4,11794,47176,17,8019.92,39156.08,7292.35,North,Lucknow,UPI
+ORD0295,2024-06-29,Laura Martin,Beauty,Face Cream,5,11393,56965,18,10253.7,46711.3,11466.93,West,Pune,Cash
+ORD0296,2024-05-23,Patricia Garcia,Home Decor,Wall Clock,3,2175,6525,15,978.75,5546.25,689.34,South,Bangalore,Cash
+ORD0297,2024-02-26,Kevin Young,Clothing,Socks,1,19045,19045,12,2285.4,16759.6,3741.52,North,Chandigarh,Credit Card
+ORD0298,2024-04-24,Paul Harris,Home Decor,Rug,4,4909,19636,9,1767.24,17868.76,1478.29,East,Patna,Debit Card
+ORD0299,2024-03-24,Edward Walker,Clothing,Socks,3,5984,17952,5,897.6,17054.4,1691.33,South,Hyderabad,Debit Card
+ORD0300,2024-02-15,Patricia Garcia,Home Decor,Photo Frame,1,16425,16425,10,1642.5,14782.5,1729.93,East,Bhubaneswar,Credit Card
+ORD0301,2024-03-02,John Smith,Beauty,Shampoo,1,2001,2001,12,240.12,1760.88,461.5,East,Kolkata,Debit Card
+ORD0302,2024-02-05,Brian Scott,Electronics,Tablet,1,7028,7028,8,562.24,6465.76,1132.09,West,Ahmedabad,UPI
+ORD0303,2024-01-11,Michael Lee,Kitchen,Kettle,5,13034,65170,15,9775.5,55394.5,10850.57,West,Ahmedabad,Cash
+ORD0304,2024-05-11,Laura Martin,Home Decor,Rug,5,4471,22355,18,4023.9,18331.1,1156.06,South,Hyderabad,Credit Card
+ORD0305,2024-02-28,Karen Allen,Electronics,Bluetooth Speaker,3,7504,22512,9,2026.08,20485.92,3225.28,South,Bangalore,Cash
+ORD0306,2024-01-10,Linda Taylor,Clothing,Cotton T-shirt,3,2540,7620,7,533.4,7086.6,523.02,North,Chandigarh,Cash
+ORD0307,2024-05-12,Emily Davis,Home Decor,Wall Clock,3,3473,10419,10,1041.9,9377.1,1335.87,West,Pune,Debit Card
+ORD0308,2024-03-23,Emily Davis,Clothing,Denim Jeans,1,2728,2728,15,409.2,2318.8,612.16,East,Patna,Credit Card
+ORD0309,2024-02-04,David Wilson,Home Decor,Rug,2,10878,21756,5,1087.8,20668.2,4814.46,West,Mumbai,Cash
+ORD0310,2024-03-05,Brian Scott,Home Decor,Table Lamp,1,10916,10916,7,764.12,10151.88,1805.07,South,Hyderabad,Credit Card
+ORD0311,2024-02-20,Paul Harris,Home Decor,Cushion,4,14534,58136,16,9301.76,48834.24,11415.7,East,Bhubaneswar,Cash
+ORD0312,2024-05-07,Robert Miller,Clothing,Jacket,4,18384,73536,6,4412.16,69123.84,13014.57,North,Chandigarh,Cash
+ORD0313,2024-02-29,Mary Jones,Clothing,Socks,1,15836,15836,9,1425.24,14410.76,3813.72,East,Kolkata,UPI
+ORD0314,2024-01-15,Mary Jones,Home Decor,Photo Frame,4,12421,49684,14,6955.76,42728.24,8613.43,East,Patna,Cash
+ORD0315,2024-04-11,Paul Harris,Kitchen,Kettle,4,12997,51988,20,10397.6,41590.4,9831.1,West,Pune,Cash
+ORD0316,2024-04-26,David Wilson,Home Decor,Photo Frame,3,7745,23235,18,4182.3,19052.7,3669.05,South,Hyderabad,Cash
+ORD0317,2024-04-11,Susan Hill,Kitchen,Kettle,2,12483,24966,12,2995.92,21970.08,3460.08,East,Kolkata,Cash
+ORD0318,2024-01-05,Sarah Johnson,Home Decor,Cushion,4,6942,27768,6,1666.08,26101.92,3462.5,South,Chennai,Credit Card
+ORD0319,2024-06-02,David Wilson,Electronics,Wireless Mouse,5,11874,59370,18,10686.6,48683.4,5501.46,South,Hyderabad,Credit Card
+ORD0320,2024-01-14,Susan Hill,Home Decor,Vase,2,11441,22882,8,1830.56,21051.44,1580.36,West,Mumbai,UPI
+ORD0321,2024-03-26,Daniel Thomas,Beauty,Shampoo,2,13520,27040,5,1352.0,25688.0,7296.92,North,Chandigarh,Cash
+ORD0322,2024-01-24,Kevin Young,Beauty,Hair Dryer,1,16548,16548,13,2151.24,14396.76,3262.59,South,Chennai,Cash
+ORD0323,2024-06-20,Edward Walker,Beauty,Perfume,3,8138,24414,11,2685.54,21728.46,5510.19,North,Chandigarh,Credit Card
+ORD0324,2024-01-31,David Wilson,Clothing,Sneakers,4,8685,34740,16,5558.4,29181.6,7284.8,North,Lucknow,UPI
+ORD0325,2024-03-03,Linda Taylor,Kitchen,Microwave,1,19001,19001,20,3800.2,15200.8,1330.59,East,Kolkata,Cash
+ORD0326,2024-06-13,Laura Martin,Beauty,Hair Dryer,2,404,808,18,145.44,662.56,189.75,West,Ahmedabad,Debit Card
+ORD0327,2024-03-07,David Wilson,Kitchen,Non-stick Pan,5,4961,24805,8,1984.4,22820.6,4498.13,East,Patna,Cash
+ORD0328,2024-02-17,Angela King,Electronics,Bluetooth Speaker,5,822,4110,13,534.3,3575.7,884.67,South,Hyderabad,Cash
+ORD0329,2024-02-02,Mary Jones,Home Decor,Rug,3,17334,52002,19,9880.38,42121.62,5951.27,West,Mumbai,Credit Card
+ORD0330,2024-06-04,Edward Walker,Electronics,Laptop,4,19010,76040,13,9885.2,66154.8,6505.72,North,Delhi,Credit Card
+ORD0331,2024-05-31,Sarah Johnson,Electronics,Laptop,3,10459,31377,6,1882.62,29494.38,2134.35,West,Ahmedabad,UPI
+ORD0332,2024-06-12,Paul Harris,Clothing,Socks,4,18274,73096,19,13888.24,59207.76,14231.55,North,Delhi,UPI
+ORD0333,2024-05-30,Emily Davis,Kitchen,Kettle,2,2769,5538,19,1052.22,4485.78,1325.0,West,Pune,UPI
+ORD0334,2024-04-30,John Smith,Clothing,Cotton T-shirt,4,8926,35704,14,4998.56,30705.44,6492.3,North,Chandigarh,Debit Card
+ORD0335,2024-04-14,Emily Davis,Clothing,Cotton T-shirt,1,18907,18907,11,2079.77,16827.23,1038.42,East,Patna,Debit Card
+ORD0336,2024-01-20,Brian Scott,Clothing,Dress,4,11751,47004,7,3290.28,43713.72,4367.68,South,Chennai,Credit Card
+ORD0337,2024-01-01,Sarah Johnson,Electronics,Tablet,4,3450,13800,12,1656.0,12144.0,3535.03,East,Kolkata,Credit Card
+ORD0338,2024-04-26,David Wilson,Beauty,Shampoo,2,4433,8866,5,443.3,8422.7,621.16,West,Pune,Credit Card
+ORD0339,2024-04-14,James Brown,Home Decor,Vase,3,8367,25101,16,4016.16,21084.84,3995.95,North,Delhi,UPI
+ORD0340,2024-01-10,Paul Harris,Electronics,Bluetooth Speaker,4,947,3788,14,530.32,3257.68,872.06,East,Kolkata,UPI
+ORD0341,2024-01-22,Patricia Garcia,Beauty,Face Cream,2,1522,3044,7,213.08,2830.92,741.45,West,Ahmedabad,Cash
+ORD0342,2024-05-30,Paul Harris,Electronics,Bluetooth Speaker,1,2293,2293,6,137.58,2155.42,602.45,South,Hyderabad,UPI
+ORD0343,2024-02-14,Nancy White,Home Decor,Table Lamp,5,1171,5855,19,1112.45,4742.55,765.52,East,Kolkata,UPI
+ORD0344,2024-04-19,Mary Jones,Clothing,Denim Jeans,2,19824,39648,6,2378.88,37269.12,8282.37,East,Kolkata,Debit Card
+ORD0345,2024-04-25,Daniel Thomas,Kitchen,Non-stick Pan,2,11310,22620,5,1131.0,21489.0,3029.06,North,Delhi,UPI
+ORD0346,2024-03-27,Brian Scott,Clothing,Dress,3,13762,41286,11,4541.46,36744.54,10691.69,East,Patna,UPI
+ORD0347,2024-03-30,Linda Taylor,Clothing,Sneakers,4,8931,35724,10,3572.4,32151.6,7004.0,South,Chennai,Debit Card
+ORD0348,2024-01-29,Sarah Johnson,Clothing,Sneakers,2,13959,27918,6,1675.08,26242.92,3814.13,West,Mumbai,UPI
+ORD0349,2024-04-06,Robert Miller,Kitchen,Mixer Grinder,2,18758,37516,5,1875.8,35640.2,9168.24,East,Kolkata,Debit Card
+ORD0350,2024-03-22,Laura Martin,Home Decor,Cushion,1,18200,18200,18,3276.0,14924.0,1621.88,North,Delhi,Cash
+ORD0351,2024-06-22,Nancy White,Clothing,Cotton T-shirt,2,1168,2336,11,256.96,2079.04,536.44,South,Bangalore,UPI
+ORD0352,2024-03-15,Daniel Thomas,Kitchen,Kettle,4,189,756,18,136.08,619.92,152.57,West,Mumbai,Debit Card
+ORD0353,2024-04-14,Patricia Garcia,Electronics,Wireless Mouse,1,2596,2596,7,181.72,2414.28,436.41,East,Bhubaneswar,Debit Card
+ORD0354,2024-03-02,Mary Jones,Beauty,Hair Dryer,1,9932,9932,11,1092.52,8839.48,1100.22,East,Patna,Credit Card
+ORD0355,2024-02-07,Brian Scott,Home Decor,Table Lamp,4,12337,49348,10,4934.8,44413.2,9091.44,West,Mumbai,UPI
+ORD0356,2024-04-30,Patricia Garcia,Kitchen,Non-stick Pan,3,4307,12921,6,775.26,12145.74,3080.5,East,Bhubaneswar,Debit Card
+ORD0357,2024-05-25,Mary Jones,Kitchen,Knife Set,4,10380,41520,8,3321.6,38198.4,9638.24,West,Ahmedabad,Credit Card
+ORD0358,2024-06-23,John Smith,Kitchen,Knife Set,2,10128,20256,6,1215.36,19040.64,2245.75,South,Hyderabad,Cash
+ORD0359,2024-02-14,Robert Miller,Home Decor,Photo Frame,2,1920,3840,19,729.6,3110.4,571.91,North,Chandigarh,UPI
+ORD0360,2024-01-08,David Wilson,Kitchen,Dinner Set,1,10184,10184,8,814.72,9369.28,2302.15,West,Mumbai,UPI
+ORD0361,2024-01-09,Susan Hill,Beauty,Hair Dryer,2,19512,39024,9,3512.16,35511.84,7753.27,East,Kolkata,UPI
+ORD0362,2024-02-16,Patricia Garcia,Electronics,Bluetooth Speaker,5,7271,36355,13,4726.15,31628.85,1689.47,South,Bangalore,Debit Card
+ORD0363,2024-02-08,Mary Jones,Home Decor,Table Lamp,4,9803,39212,14,5489.68,33722.32,9989.68,West,Mumbai,Credit Card
+ORD0364,2024-05-21,Angela King,Home Decor,Rug,3,4279,12837,17,2182.29,10654.71,2951.37,East,Patna,Debit Card
+ORD0365,2024-03-19,Michael Lee,Clothing,Denim Jeans,1,13939,13939,13,1812.07,12126.93,2124.98,East,Patna,UPI
+ORD0366,2024-05-28,Daniel Thomas,Home Decor,Vase,3,16473,49419,6,2965.14,46453.86,13828.34,East,Bhubaneswar,UPI
+ORD0367,2024-06-03,Karen Allen,Beauty,Shampoo,5,3828,19140,8,1531.2,17608.8,939.52,East,Patna,UPI
+ORD0368,2024-04-15,Kevin Young,Clothing,Cotton T-shirt,1,3833,3833,19,728.27,3104.73,756.45,East,Bhubaneswar,Debit Card
+ORD0369,2024-02-18,Michael Lee,Beauty,Face Cream,1,9281,9281,12,1113.72,8167.28,2408.38,East,Patna,Cash
+ORD0370,2024-05-26,Paul Harris,Clothing,Cotton T-shirt,2,12149,24298,8,1943.84,22354.16,6590.97,East,Bhubaneswar,Credit Card
+ORD0371,2024-03-13,Angela King,Electronics,Smartphone,2,11239,22478,6,1348.68,21129.32,2185.15,North,Delhi,UPI
+ORD0372,2024-04-30,Robert Miller,Clothing,Jacket,2,4238,8476,9,762.84,7713.16,974.66,North,Chandigarh,Debit Card
+ORD0373,2024-01-22,Sarah Johnson,Home Decor,Vase,1,5835,5835,5,291.75,5543.25,472.7,East,Kolkata,Credit Card
+ORD0374,2024-03-07,Emily Davis,Beauty,Shampoo,2,14224,28448,10,2844.8,25603.2,4686.95,West,Mumbai,UPI
+ORD0375,2024-05-21,Sarah Johnson,Electronics,Tablet,2,4230,8460,17,1438.2,7021.8,920.7,West,Ahmedabad,UPI
+ORD0376,2024-05-19,Linda Taylor,Kitchen,Knife Set,3,9362,28086,15,4212.9,23873.1,4951.63,North,Delhi,Cash
+ORD0377,2024-06-08,Angela King,Home Decor,Vase,3,7589,22767,11,2504.37,20262.63,1968.91,East,Kolkata,UPI
+ORD0378,2024-05-22,Robert Miller,Electronics,Tablet,2,15322,30644,19,5822.36,24821.64,2422.17,North,Delhi,Cash
+ORD0379,2024-01-01,David Wilson,Home Decor,Wall Clock,4,2015,8060,13,1047.8,7012.2,1892.51,North,Lucknow,Credit Card
+ORD0380,2024-01-05,Mary Jones,Home Decor,Wall Clock,2,2303,4606,10,460.6,4145.4,702.8,North,Chandigarh,UPI
+ORD0381,2024-04-29,Edward Walker,Beauty,Nail Polish,5,19269,96345,8,7707.6,88637.4,16634.18,West,Ahmedabad,Cash
+ORD0382,2024-02-25,Nancy White,Home Decor,Wall Clock,5,17329,86645,14,12130.3,74514.7,18459.3,South,Hyderabad,UPI
+ORD0383,2024-04-11,Michael Lee,Clothing,Jacket,5,18538,92690,16,14830.4,77859.6,12334.17,West,Pune,UPI
+ORD0384,2024-06-21,David Wilson,Home Decor,Photo Frame,5,14239,71195,15,10679.25,60515.75,6485.49,North,Delhi,Debit Card
+ORD0385,2024-02-03,Sarah Johnson,Beauty,Hair Dryer,4,4246,16984,15,2547.6,14436.4,1053.95,West,Mumbai,Credit Card
+ORD0386,2024-03-23,David Wilson,Electronics,Wireless Mouse,3,11601,34803,12,4176.36,30626.64,6877.51,East,Bhubaneswar,UPI
+ORD0387,2024-03-11,Mary Jones,Electronics,Earbuds,5,15572,77860,20,15572.0,62288.0,4344.58,West,Pune,Credit Card
+ORD0388,2024-04-29,Laura Martin,Electronics,Laptop,4,14508,58032,11,6383.52,51648.479999999996,7910.37,South,Hyderabad,Cash
+ORD0389,2024-01-31,Robert Miller,Clothing,Dress,1,19051,19051,7,1333.57,17717.43,2457.6,North,Delhi,Debit Card
+ORD0390,2024-06-19,John Smith,Home Decor,Table Lamp,4,10948,43792,17,7444.64,36347.36,8312.32,West,Mumbai,Debit Card
+ORD0391,2024-02-16,Susan Hill,Beauty,Perfume,4,13513,54052,7,3783.64,50268.36,8172.72,West,Ahmedabad,Credit Card
+ORD0392,2024-03-22,Kevin Young,Home Decor,Cushion,4,7732,30928,11,3402.08,27525.92,1555.5,West,Ahmedabad,Credit Card
+ORD0393,2024-05-28,Susan Hill,Kitchen,Microwave,4,12189,48756,15,7313.4,41442.6,11203.8,West,Pune,UPI
+ORD0394,2024-03-19,Michael Lee,Home Decor,Wall Clock,5,6786,33930,15,5089.5,28840.5,6624.28,South,Chennai,Debit Card
+ORD0395,2024-05-04,Kevin Young,Clothing,Denim Jeans,2,13503,27006,16,4320.96,22685.04,1206.04,South,Chennai,Cash
+ORD0396,2024-01-28,Michael Lee,Kitchen,Mixer Grinder,2,15183,30366,12,3643.92,26722.08,4902.46,East,Kolkata,Debit Card
+ORD0397,2024-05-24,Patricia Garcia,Home Decor,Wall Clock,5,14584,72920,17,12396.4,60523.6,10741.71,South,Hyderabad,UPI
+ORD0398,2024-05-23,David Wilson,Home Decor,Table Lamp,4,13370,53480,7,3743.6,49736.4,4748.79,East,Bhubaneswar,Debit Card
+ORD0399,2024-02-22,David Wilson,Electronics,Tablet,3,14984,44952,18,8091.36,36860.64,5200.04,West,Mumbai,Debit Card
+ORD0400,2024-02-05,Patricia Garcia,Home Decor,Cushion,1,5278,5278,16,844.48,4433.52,1173.68,West,Pune,Credit Card
+ORD0401,2024-02-03,James Brown,Home Decor,Rug,3,1053,3159,13,410.67,2748.33,806.79,North,Chandigarh,Debit Card
+ORD0402,2024-02-27,Robert Miller,Beauty,Perfume,1,19920,19920,17,3386.4,16533.6,4334.63,West,Pune,UPI
+ORD0403,2024-02-10,Patricia Garcia,Electronics,Tablet,2,7113,14226,8,1138.08,13087.92,2261.2,North,Chandigarh,Cash
+ORD0404,2024-03-21,Patricia Garcia,Clothing,Jacket,2,8187,16374,14,2292.36,14081.64,4075.76,South,Chennai,Credit Card
+ORD0405,2024-05-26,Paul Harris,Electronics,Earbuds,5,8217,41085,20,8217.0,32868.0,7345.97,South,Bangalore,Debit Card
+ORD0406,2024-03-08,Karen Allen,Clothing,Jacket,4,16841,67364,19,12799.16,54564.84,12234.89,West,Ahmedabad,Credit Card
+ORD0407,2024-04-02,Susan Hill,Electronics,Wireless Mouse,5,10665,53325,11,5865.75,47459.25,10945.6,South,Bangalore,UPI
+ORD0408,2024-05-19,James Brown,Home Decor,Photo Frame,1,17504,17504,10,1750.4,15753.6,2953.34,North,Chandigarh,Credit Card
+ORD0409,2024-02-23,Paul Harris,Beauty,Nail Polish,3,12857,38571,19,7328.49,31242.510000000002,8275.25,West,Ahmedabad,Cash
+ORD0410,2024-06-15,James Brown,Clothing,Jacket,4,18970,75880,18,13658.4,62221.6,14226.36,West,Ahmedabad,Credit Card
+ORD0411,2024-01-25,Karen Allen,Clothing,Denim Jeans,5,17606,88030,16,14084.8,73945.2,22012.98,West,Pune,Cash
+ORD0412,2024-04-29,Kevin Young,Beauty,Perfume,1,11099,11099,10,1109.9,9989.1,1515.02,West,Ahmedabad,UPI
+ORD0413,2024-05-29,Karen Allen,Home Decor,Cushion,5,13171,65855,7,4609.85,61245.15,16528.41,North,Chandigarh,UPI
+ORD0414,2024-02-28,Emily Davis,Electronics,Smartphone,3,18229,54687,14,7656.18,47030.82,10321.19,East,Kolkata,UPI
+ORD0415,2024-02-06,Mary Jones,Electronics,Laptop,3,13950,41850,19,7951.5,33898.5,5048.38,North,Chandigarh,Debit Card
+ORD0416,2024-03-29,Michael Lee,Clothing,Dress,4,13975,55900,12,6708.0,49192.0,2858.88,North,Lucknow,UPI
+ORD0417,2024-01-11,Emily Davis,Clothing,Jacket,3,12363,37089,16,5934.24,31154.760000000002,5907.69,East,Patna,Credit Card
+ORD0418,2024-02-04,Susan Hill,Clothing,Jacket,1,14809,14809,20,2961.8,11847.2,717.15,West,Pune,Credit Card
+ORD0419,2024-04-27,Nancy White,Home Decor,Vase,4,6708,26832,14,3756.48,23075.52,4587.09,North,Chandigarh,Credit Card
+ORD0420,2024-05-25,Robert Miller,Beauty,Face Cream,5,12418,62090,8,4967.2,57122.8,14520.63,West,Pune,Credit Card
+ORD0421,2024-04-14,Karen Allen,Beauty,Face Cream,2,3247,6494,9,584.46,5909.54,1717.15,West,Pune,UPI
+ORD0422,2024-05-18,Mary Jones,Beauty,Face Cream,5,4013,20065,17,3411.05,16653.95,1433.26,North,Delhi,Debit Card
+ORD0423,2024-01-08,Susan Hill,Beauty,Hair Dryer,2,11495,22990,10,2299.0,20691.0,4348.13,North,Delhi,Credit Card
+ORD0424,2024-03-13,Robert Miller,Home Decor,Photo Frame,1,12980,12980,15,1947.0,11033.0,962.14,North,Delhi,Debit Card
+ORD0425,2024-01-06,Sarah Johnson,Beauty,Lipstick,2,14567,29134,9,2622.06,26511.94,2803.61,South,Bangalore,UPI
+ORD0426,2024-06-05,Brian Scott,Beauty,Lipstick,5,2687,13435,18,2418.3,11016.7,2941.81,South,Bangalore,Cash
+ORD0427,2024-02-10,Angela King,Kitchen,Mixer Grinder,2,7368,14736,11,1620.96,13115.04,3773.67,West,Pune,Debit Card
+ORD0428,2024-01-01,Mary Jones,Kitchen,Microwave,3,1119,3357,10,335.7,3021.3,441.67,North,Delhi,Credit Card
+ORD0429,2024-04-24,Emily Davis,Electronics,Smartphone,4,16344,65376,7,4576.32,60799.68,6105.87,North,Lucknow,UPI
+ORD0430,2024-02-19,Karen Allen,Clothing,Cotton T-shirt,2,1011,2022,8,161.76,1860.24,529.15,South,Hyderabad,UPI
+ORD0431,2024-05-31,Karen Allen,Electronics,Laptop,4,4892,19568,7,1369.76,18198.24,3859.7,East,Kolkata,UPI
+ORD0432,2024-02-14,Karen Allen,Clothing,Dress,1,17263,17263,6,1035.78,16227.22,1400.54,West,Pune,Credit Card
+ORD0433,2024-01-04,Paul Harris,Beauty,Lipstick,2,13134,26268,5,1313.4,24954.6,3943.82,South,Bangalore,Debit Card
+ORD0434,2024-05-08,Paul Harris,Home Decor,Photo Frame,3,6808,20424,9,1838.16,18585.84,2511.02,North,Delhi,Cash
+ORD0435,2024-01-15,Emily Davis,Home Decor,Vase,3,7489,22467,8,1797.36,20669.64,1803.31,North,Chandigarh,Credit Card
+ORD0436,2024-05-01,Edward Walker,Electronics,Wireless Mouse,3,6662,19986,18,3597.48,16388.52,3728.21,East,Kolkata,Cash
+ORD0437,2024-01-08,Angela King,Kitchen,Microwave,5,14663,73315,17,12463.55,60851.45,7789.26,East,Kolkata,UPI
+ORD0438,2024-03-14,Michael Lee,Kitchen,Dinner Set,5,2779,13895,6,833.7,13061.3,2313.97,West,Mumbai,Credit Card
+ORD0439,2024-05-05,Sarah Johnson,Electronics,Laptop,4,7537,30148,15,4522.2,25625.8,1382.84,West,Ahmedabad,Debit Card
+ORD0440,2024-03-31,Sarah Johnson,Home Decor,Cushion,3,11117,33351,20,6670.2,26680.8,1364.11,East,Bhubaneswar,UPI
+ORD0441,2024-05-16,John Smith,Home Decor,Cushion,2,1417,2834,18,510.12,2323.88,331.75,North,Lucknow,Cash
+ORD0442,2024-06-08,Michael Lee,Beauty,Shampoo,3,16377,49131,16,7860.96,41270.04,6342.53,East,Patna,Cash
+ORD0443,2024-01-19,Nancy White,Home Decor,Vase,4,18962,75848,6,4550.88,71297.12,7158.68,West,Pune,Debit Card
+ORD0444,2024-01-06,Linda Taylor,Kitchen,Kettle,3,4136,12408,13,1613.04,10794.96,1677.17,South,Chennai,UPI
+ORD0445,2024-02-25,David Wilson,Electronics,Tablet,4,14216,56864,20,11372.8,45491.2,2952.09,North,Delhi,Credit Card
+ORD0446,2024-04-06,Angela King,Clothing,Jacket,2,14282,28564,13,3713.32,24850.68,5751.24,North,Delhi,Debit Card
+ORD0447,2024-06-19,Emily Davis,Electronics,Wireless Mouse,3,17909,53727,15,8059.05,45667.95,3245.97,East,Kolkata,Debit Card
+ORD0448,2024-03-05,Nancy White,Kitchen,Non-stick Pan,4,2181,8724,20,1744.8,6979.2,1306.78,North,Delhi,Credit Card
+ORD0449,2024-01-17,David Wilson,Beauty,Shampoo,5,6074,30370,7,2125.9,28244.1,5565.37,North,Chandigarh,Credit Card
+ORD0450,2024-03-10,Susan Hill,Clothing,Jacket,3,2537,7611,12,913.32,6697.68,665.78,West,Ahmedabad,UPI
+ORD0451,2024-05-12,Linda Taylor,Electronics,Wireless Mouse,4,10070,40280,8,3222.4,37057.6,10157.35,East,Kolkata,Cash
+ORD0452,2024-06-11,Brian Scott,Clothing,Denim Jeans,2,2384,4768,19,905.92,3862.08,383.11,South,Bangalore,UPI
+ORD0453,2024-04-14,Nancy White,Beauty,Hair Dryer,2,2863,5726,12,687.12,5038.88,1071.57,West,Ahmedabad,Cash
+ORD0454,2024-05-28,Patricia Garcia,Home Decor,Wall Clock,2,14440,28880,14,4043.2,24836.8,4580.63,West,Pune,UPI
+ORD0455,2024-05-17,Sarah Johnson,Kitchen,Kettle,5,427,2135,6,128.1,2006.9,387.43,North,Lucknow,Credit Card
+ORD0456,2024-05-22,Kevin Young,Clothing,Jacket,1,19231,19231,6,1153.86,18077.14,2091.89,West,Ahmedabad,Credit Card
+ORD0457,2024-02-03,Mary Jones,Clothing,Denim Jeans,1,3787,3787,6,227.22,3559.78,580.52,East,Kolkata,Credit Card
+ORD0458,2024-05-30,Karen Allen,Clothing,Cotton T-shirt,1,11042,11042,10,1104.2,9937.8,2756.31,East,Patna,UPI
+ORD0459,2024-05-22,Brian Scott,Clothing,Jacket,5,1229,6145,17,1044.65,5100.35,740.91,East,Bhubaneswar,Cash
+ORD0460,2024-05-21,Nancy White,Clothing,Cotton T-shirt,1,14339,14339,17,2437.63,11901.369999999999,3345.47,South,Hyderabad,Debit Card
+ORD0461,2024-01-03,Angela King,Electronics,Earbuds,5,1734,8670,6,520.2,8149.8,1362.63,North,Lucknow,Credit Card
+ORD0462,2024-06-07,Laura Martin,Clothing,Jacket,2,6914,13828,17,2350.76,11477.24,3083.69,North,Chandigarh,Credit Card
+ORD0463,2024-06-12,Daniel Thomas,Kitchen,Microwave,3,3624,10872,20,2174.4,8697.6,2355.1,West,Mumbai,UPI
+ORD0464,2024-02-21,Robert Miller,Home Decor,Cushion,5,8359,41795,12,5015.4,36779.6,5592.97,North,Delhi,UPI
+ORD0465,2024-05-14,Mary Jones,Home Decor,Photo Frame,4,2559,10236,12,1228.32,9007.68,1833.69,South,Chennai,UPI
+ORD0466,2024-03-24,Robert Miller,Home Decor,Rug,2,15623,31246,7,2187.22,29058.78,2214.44,South,Hyderabad,Credit Card
+ORD0467,2024-05-26,Angela King,Electronics,Wireless Mouse,2,19016,38032,14,5324.48,32707.52,7024.51,North,Delhi,Cash
+ORD0468,2024-06-18,Linda Taylor,Beauty,Shampoo,5,8611,43055,8,3444.4,39610.6,2888.07,South,Hyderabad,UPI
+ORD0469,2024-04-19,Mary Jones,Beauty,Nail Polish,3,19798,59394,13,7721.22,51672.78,3537.57,North,Chandigarh,Cash
+ORD0470,2024-02-25,Robert Miller,Home Decor,Rug,4,16399,65596,9,5903.64,59692.36,9791.77,East,Kolkata,UPI
+ORD0471,2024-02-25,Brian Scott,Home Decor,Cushion,4,9553,38212,9,3439.08,34772.92,10183.85,North,Delhi,Debit Card
+ORD0472,2024-02-07,Angela King,Beauty,Nail Polish,1,3239,3239,7,226.73,3012.27,646.92,South,Chennai,Debit Card
+ORD0473,2024-05-05,Patricia Garcia,Kitchen,Microwave,5,19702,98510,13,12806.3,85703.7,13180.98,East,Kolkata,UPI
+ORD0474,2024-06-14,Patricia Garcia,Clothing,Socks,3,578,1734,16,277.44,1456.56,323.15,West,Pune,Credit Card
+ORD0475,2024-04-13,Sarah Johnson,Electronics,Earbuds,4,18729,74916,14,10488.24,64427.76,12385.29,North,Lucknow,Credit Card
+ORD0476,2024-02-19,Kevin Young,Electronics,Tablet,1,18857,18857,17,3205.69,15651.31,4320.06,West,Ahmedabad,Cash
+ORD0477,2024-04-17,Edward Walker,Kitchen,Kettle,2,5165,10330,13,1342.9,8987.1,2186.71,South,Hyderabad,Debit Card
+ORD0478,2024-04-27,Emily Davis,Beauty,Nail Polish,3,15603,46809,5,2340.45,44468.55,4006.62,East,Kolkata,Debit Card
+ORD0479,2024-04-11,Karen Allen,Kitchen,Kettle,4,8648,34592,7,2421.44,32170.56,3383.51,North,Delhi,Debit Card
+ORD0480,2024-05-10,Paul Harris,Electronics,Tablet,4,10349,41396,17,7037.32,34358.68,3659.1,South,Chennai,Debit Card
+ORD0481,2024-02-09,Angela King,Beauty,Hair Dryer,1,2023,2023,20,404.6,1618.4,326.35,West,Pune,Credit Card
+ORD0482,2024-02-03,Daniel Thomas,Electronics,Laptop,2,3807,7614,15,1142.1,6471.9,1399.51,East,Patna,Credit Card
+ORD0483,2024-03-15,Robert Miller,Electronics,Bluetooth Speaker,5,11987,59935,16,9589.6,50345.4,14044.09,South,Chennai,Debit Card
+ORD0484,2024-02-03,Sarah Johnson,Kitchen,Kettle,4,8224,32896,12,3947.52,28948.48,4788.1,West,Ahmedabad,UPI
+ORD0485,2024-01-05,Sarah Johnson,Beauty,Perfume,5,10650,53250,15,7987.5,45262.5,4749.49,South,Bangalore,Debit Card
+ORD0486,2024-03-20,Laura Martin,Electronics,Earbuds,2,3958,7916,7,554.12,7361.88,1014.82,West,Ahmedabad,UPI
+ORD0487,2024-06-15,Kevin Young,Beauty,Face Cream,5,13485,67425,8,5394.0,62031.0,18149.85,North,Delhi,UPI
+ORD0488,2024-04-18,Patricia Garcia,Beauty,Perfume,2,7729,15458,8,1236.64,14221.36,2471.99,North,Chandigarh,Credit Card
+ORD0489,2024-02-24,Susan Hill,Electronics,Wireless Mouse,1,12933,12933,13,1681.29,11251.71,1357.91,South,Chennai,Debit Card
+ORD0490,2024-04-26,Linda Taylor,Beauty,Face Cream,5,7643,38215,17,6496.55,31718.45,8009.36,North,Delhi,Credit Card
+ORD0491,2024-02-24,Michael Lee,Electronics,Smartphone,2,3749,7498,17,1274.66,6223.34,1562.67,West,Mumbai,Debit Card
+ORD0492,2024-02-10,Edward Walker,Beauty,Perfume,2,1701,3402,13,442.26,2959.74,199.94,North,Chandigarh,Credit Card
+ORD0493,2024-06-12,Nancy White,Kitchen,Dinner Set,3,16722,50166,17,8528.22,41637.78,5374.6,East,Kolkata,Cash
+ORD0494,2024-02-19,Emily Davis,Electronics,Laptop,2,15643,31286,6,1877.16,29408.84,5105.32,South,Bangalore,Credit Card
+ORD0495,2024-05-22,Brian Scott,Beauty,Perfume,5,7412,37060,13,4817.8,32242.2,4787.44,East,Patna,Cash
+ORD0496,2024-01-24,Paul Harris,Electronics,Laptop,4,9114,36456,16,5832.96,30623.04,4179.4,North,Lucknow,Credit Card
+ORD0497,2024-02-22,Emily Davis,Electronics,Smartphone,5,15832,79160,20,15832.0,63328.0,15951.21,East,Patna,Cash
+ORD0498,2024-02-23,Susan Hill,Electronics,Earbuds,4,12052,48208,5,2410.4,45797.6,8940.94,East,Bhubaneswar,Credit Card
+ORD0499,2024-06-06,David Wilson,Clothing,Jacket,2,12068,24136,14,3379.04,20756.96,2738.34,East,Bhubaneswar,Credit Card
+ORD0500,2024-03-02,Angela King,Home Decor,Rug,3,6715,20145,16,3223.2,16921.8,5075.4,West,Pune,Cash
