@@ -21,3 +21,8 @@ The Monthly Sales Trend line chart tracks sales performance across months (Janua
 Finally, the Profit by Product bar chart ranks products by profitability, with Jackets, Nail Polish, and Wireless Mouse among the top performers, while Dinner Sets and Bluetooth Speakers show lower profits.
 
 Interactive filters (Region, Category, Profit range) allow users to explore specific segments, making the dashboard dynamic and insightful for decision-making.
+
+Project Link (Tableau Public)
+
+https://public.tableau.com/views/PersonalFinanceTrackerProject1/PersonalFinanceTracker?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
